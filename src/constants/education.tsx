@@ -1,19 +1,18 @@
 export const timeline = [
   {
     company: "Columbia University in the City of New York",
-    title: "Master of Science - Data Sciene",
+    title: "M.A. Quantitative Methods in the Social Sciences",
     date: "August 2025 - December 2026",
-    description: "Data Science Institute, Fu Foundation School of Engineering and Applied Science",
-    courses: "Advanced Reinforcement Learning, Generative AI using LLMs, Data Driven Methods in Finance, Applied Deep Learning, Finance and Structuring for Data Science, Machine Learning for Data Science, Statistical Inference and Modelling",
+    description: "Graduate School of Arts and Sciences (QMSS Program) — Focus: Econometrics, Financial Economics, and Quantitative Research",
+    courses: "Stochastic Processes & Applications, Advanced Econometrics, Statistical Methods for Finance, Time Series Analysis & Panel Data, Algorithmic Trading, Asset Allocation, NLP for Economic and Financial Data",
     transcript: "/assets/transcripts/columbia_transcript_Spring.pdf"
   },
   {
-    company: "Pandit Deendayal Energy University",
-    title: "Bachelor of Technology - Computer Science and Engineering",
-    date: "October 2021 - May 2025",
-    description: "Department of Computer Science and Engineering, School of Technology",
-    courses:"Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks, Artificial Intelligence, Machine Learning, Pattern Recognition, Internet of Things, Big Data Analytics, Computer Vision, Information Retrieval, Digital Image Processing",
+    company: "Lady Shri Ram College for Women, University of Delhi",
+    title: "B.Sc. (Hons) Mathematics, Minor in Economics",
+    date: "August 2021 - May 2024",
+    description: "First Class — Strong foundation in mathematical modeling, statistical inference, and economic theory",
+    courses:"Real Analysis, Linear Algebra, Probability Theory, Mathematical Statistics, Optimization Techniques, Econometrics, Microeconomics, Macroeconomics",
     transcript: "/assets/transcripts/pdeu_transcript.pdf"
   },
-  
 ];
