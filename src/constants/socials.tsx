@@ -12,17 +12,17 @@ export const socials = [
     icon: IconBrandGithub,
   },
   {
-    href: "https://linkedin.com/in/tanishpatel01",
+    href: "https://www.linkedin.com/in/siva-gayatri-dittakavi-5a9b87313/",
     label: "LinkedIn",
     icon: IconBrandLinkedin,
   },
   {
-    href: "https://scholar.google.com/citations?user=lNvY9BwAAAAJ&hl=en",
+    href: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=cthLOw0AAAAJ",
     label: "Google Scholar",
     icon: IconSchool,
   },
   {
-    href: "https://orcid.org/0009-0001-1381-2986",
+    href: "https://orcid.org/0009-0007-7327-7296",
     label: "ORCID",
     icon: IconSearch,
   }
