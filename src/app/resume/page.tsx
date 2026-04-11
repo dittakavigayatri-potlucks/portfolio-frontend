@@ -15,30 +15,32 @@ export default function Home() {
       <span className="text-4xl">💼</span>
       <Heading className="font-black">Work History</Heading>
       <Paragraph className="max-w-xl">
-        I&apos;m an AI Engineer that loves{" "}
-        <Highlight>building products</Highlight> and web apps that can impact
-        millions of lives
+        I build at the intersection of{" "}
+        <Highlight>quantitative research</Highlight> and applied economic
+        analysis — from causal inference to systematic financial modeling.
       </Paragraph>
       <WorkHistory />
       <span className="text-4xl">🎓</span>
       <Heading className="font-black">Education</Heading>
       <Paragraph className="max-w-xl">
-        Learning is a <Highlight>Continuous Journey</Highlight> and I am on my
-        way to master it.
+        Grounded in <Highlight>mathematics and economics</Highlight>, with
+        graduate training in{" "}
+        <Highlight>quantitative methods</Highlight> at Columbia University.
       </Paragraph>
       <EducationHistory />
       <span className="text-4xl">🏆</span>
       <Heading className="font-black">Leadership</Heading>
       <Paragraph className="max-w-xl">
-        I&apos;ts always a{" "}
-        <Highlight>Team Job</Highlight> because not everything is meant to be <Highlight>One-Man Job </Highlight>
+        From founding a{" "}
+        <Highlight>public health analytics initiative</Highlight> to
+        contributing to academic research communities.
       </Paragraph>
       <LeadershipHistory />
       <span className="text-4xl">🚩</span>
       <Heading className="font-black">Co-Curriculars</Heading>
       <Paragraph className="max-w-xl mt-4">
-        All work and no{" "}
-        <Highlight>Play</Highlight> makes Jack a <Highlight>Dull</Highlight> Boy.
+        Research, conferences, and community engagement beyond the{" "}
+        <Highlight>classroom</Highlight>.
       </Paragraph>
       <CocurricularHistory />
     </Container>

@@ -11,9 +11,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Tanish Patel - AI Developer",
+  title: "Gayatri Dittakavi - Quantitative Researcher",
   description:
-    "Tanish Patel is an AI developer, avid reader and speaker. He loves building products and solutions that can impact a solution to the community.",
+    "Gayatri Dittakavi is a quantitative researcher at Columbia University specializing in macro-financial systems, stochastic modeling, and market microstructure.",
 };
 
 export default function RootLayout({

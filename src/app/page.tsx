@@ -11,14 +11,14 @@ export default function Home() {
   return (
     <Container>
       <span className="text-4xl">👋</span>
-      <Heading className="font-black">Hello there! I&apos;m Tanish</Heading>
+      <Heading className="font-black">Hello there! I&apos;m Gayatri</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m an AI Developer that loves{" "}
-        <Highlight>building products</Highlight> and solutions that can impact a solution to the community.
+        I&apos;m a <Highlight>quantitative researcher</Highlight> studying macro-financial systems,{" "}
+        stochastic modeling, and market microstructure at Columbia University.
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a Junior AI Engineer with{" "}
-        <Highlight>2 years of experience</Highlight> building scalable AI and ML based solutions for all kinds of organisations and needs
+        I work at the intersection of{" "}
+        <Highlight>econometrics, financial modeling, and system design</Highlight> — building frameworks where the math has to be right and the system actually works.
       </Paragraph>
       <Heading
         as="h2"

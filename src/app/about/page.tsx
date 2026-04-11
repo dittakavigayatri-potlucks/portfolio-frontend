@@ -10,9 +10,9 @@ import { motion } from "framer-motion";
 import About from "@/components/About";
 
 export const metadata: Metadata = {
-  title: "About | Tanish Patel",
+  title: "About | Gayatri Dittakavi",
   description:
-    "Tanish Patel is an AI developer that loves building products and solutions that can impact a solution to the community.",
+    "Gayatri Dittakavi is a quantitative researcher at Columbia University specializing in macro-financial systems, stochastic modeling, and DeFi risk.",
 };
 
 export default function AboutPage() {

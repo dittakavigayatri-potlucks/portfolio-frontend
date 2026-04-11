@@ -109,15 +109,15 @@ const SidebarHeader = () => {
   return (
     <div className="flex space-x-2">
       <Image
-        src="/images/Headshot.jpeg"
-        alt="Avatar"
+        src="/images/Gayatri.png"
+        alt="Gayatri Dittakavi"
         height="40"
         width="40"
         className="object-cover object-top rounded-full flex-shrink-0"
       />
       <div className="flex text-sm flex-col">
-        <p className="font-bold text-primary">Tanish Patel</p>
-        <p className="font-light text-secondary">Data Scientist</p>
+        <p className="font-bold text-primary">Gayatri Dittakavi</p>
+        <p className="font-light text-secondary">Quant Researcher</p>
       </div>
     </div>
   );
