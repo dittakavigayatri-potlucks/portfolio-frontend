@@ -8,9 +8,9 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Contact | Tanish Patel",
+  title: "Contact | Gayatri Dittakavi",
   description:
-    "Tanish Patel is an AI developer, avid reader and speaker. He loves building products and solutions that can impact a solution to the community.",
+    "Gayatri Dittakavi is a Quantitative Researcher focused on Macro-financial systems, Econometrics, and Stochastic Modeling. She works at the intersection of markets, policy, and data-driven decision making.",
 };
 
 export default function Projects() {
@@ -19,8 +19,9 @@ export default function Projects() {
       <span className="text-4xl">✉️</span>
       <Heading className="font-black mb-2">Contact Me</Heading>
       <Paragraph className="mb-10 max-w-xl">
-        Reach out to me over email or fill up this contact form. I will get back
-        to you ASAP - I promise.{" "}
+        If you're interested in quantitative research, macro-financial analysis,
+        or collaborations in Econometrics, Systematic Strategies, or DeFi systems,
+        feel free to reach out. I’m always open to discussing ideas, research, or opportunities.{" "}
       </Paragraph>
       <Contact />
     </Container>
