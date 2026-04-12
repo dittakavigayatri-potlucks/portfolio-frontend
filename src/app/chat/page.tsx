@@ -2,9 +2,9 @@ import { ChatInterface } from "@/components/chat/ChatInterface";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Chat About Me | Tanish Patel",
+  title: "Chat About Me | Gayatri Dittakavi",
   description:
-    "Ask an AI assistant anything about Tanish Patel — his work, research, projects, skills, and interests.",
+    "Ask an AI assistant anything about Gayatri — her work, research, projects, skills, and interests.",
 };
 
 export default function ChatPage() {
