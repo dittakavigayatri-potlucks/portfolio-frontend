@@ -1,11 +1,10 @@
-
 import { ResearchItem } from "@/types/research";
 
 export const research: ResearchItem[] = [
   {
     slug: "commute-distance-residential-characteristics",
-    thumbnail: "/images/first-image.png",
-    images: ["/images/first-image.png", "/images/illust_1.jpg", "/images/illust_2.png"],
+    thumbnail: "/images/illust_1.jpg",
+    images: ["/images/illust_1.jpg", "/images/image (1).png"],
     title: "Commute Distance and Residential Characteristics: Weathering the Storm",
     category: "Urban Economics and Transportation Research",
     role: "Co-Author",
@@ -74,12 +73,11 @@ export const research: ResearchItem[] = [
     links: {
       Publication: "https://link.springer.com/",
     },
-
   },
   {
     slug: "limits-to-commute-indian-women",
-    thumbnail: "/images/THESIS_F.png",
-    images: ["/images/THESIS_F.png", "/images/THESIS_1.png", "/images/THESIS_2.png"],
+    thumbnail: "/images/SA-4.jpeg",
+    images: ["/images/SA-4.jpeg", "/images/WhatsApp Image 2024-06-16 at 06.54.51.jpeg"],
     title: "Limits to Commute: The Case of Indian Women",
     category: "Gender, Labor, and Mobility",
     role: "Co-Author",
@@ -123,7 +121,6 @@ export const research: ResearchItem[] = [
       By treating commute distance as a gendered economic variable rather than a narrow transport statistic, this work contributes to the study of urban inequality and labor access. Future extensions could integrate richer safety variables, temporal work patterns, and neighborhood-level infrastructure measures to sharpen the analysis further. The broader research agenda remains centered on understanding mobility as a foundation of economic inclusion.
       </p>
     </section>
-
     `,
     tags: ["Gender Economics", "Transportation Research", "Logistic Regression", "Urban Inequality"],
     pdf: "/assets/papers/limits-to-commute.pdf",
@@ -136,13 +133,12 @@ export const research: ResearchItem[] = [
       "Urban inequality analysis through transport metrics"
     ],
     results:
-      "The study shows that women’s commute distances are materially shaped by socio-economic and household constraints, supporting the use of commute distance as an empirical indicator of gendered access to labor-market opportunity.",
-
+      "The study shows that women's commute distances are materially shaped by socio-economic and household constraints, supporting the use of commute distance as an empirical indicator of gendered access to labor-market opportunity.",
   },
   {
     slug: "urban-economic-potential-moora-fuca",
-    thumbnail: "/images/SOC_PHOTO_1.png",
-    images: ["/images/SOC_PHOTO_1.png", "/images/SOC_2.png"],
+    thumbnail: "/images/diagram_minor.png",
+    images: ["/images/diagram_minor.png", "/images/Setup.png"],
     title: "Optimizing Urban Economic Potential: A Comprehensive Ranking of City Districts Using MOORA and FUCA Techniques",
     category: "Urban Systems and Decision Analytics",
     role: "Co-Author",
@@ -202,12 +198,11 @@ export const research: ResearchItem[] = [
     links: {
       Publication: "https://www.tandfonline.com/",
     },
-
   },
-    {
+  {
     slug: "industrial-sector-equity-screening-valuation",
-    thumbnail: "/images/IOV_1.png",
-    images: ["/images/IOV_1.png", "/images/IOV_2.png"],
+    thumbnail: "/images/PC-1.png",
+    images: ["/images/PC-1.png", "/images/IOV_2.png"],
     title: "Industrial Sector Equity Screening and Valuation Model",
     category: "Equity Research and Financial Modeling",
     role: "Independent Researcher",
@@ -234,17 +229,12 @@ export const research: ResearchItem[] = [
     </section>
     <section>
       <h3>Results and Discussion</h3>
-
       <p>The project produced a structured research workflow capable of ranking industrial names on both absolute and relative value. Because forecast assumptions are linked to identifiable macro and sector variables, the resulting investment conclusions are more transparent and easier to revise under changing conditions. This is particularly important in cyclical sectors, where valuation without macro context often becomes fragile or misleading.</p>
-
       <p>More broadly, the work demonstrates the ability to bridge accounting mechanics, valuation logic, and market narrative. That integration is central to high-quality research work, where the strength of a view depends not only on the model, but on the coherence between numbers, catalysts, and industry structure.</p>
-
     </section>
     <section>
     <h3>Future Work &amp; Conclusion</h3>
-
     <p>This framework can be extended through scenario libraries tied to industrial recession risk, margin compression, reshoring themes, and capex supercycle narratives. Additional work could include factor-based relative screening, earnings-revision sensitivity, and event-driven catalyst monitoring. In its current form, however, the project already functions as a strong institutional-style equity research engine with clear analytical lineage from assumptions to recommendation.</p>
-
     </section>
     `,
     tags: ["Equity Research", "DCF Valuation", "3-Statement Modeling", "Industrials"],
@@ -262,7 +252,5 @@ export const research: ResearchItem[] = [
     links: {
       Repository: "https://github.com/",
     },
-
   },
 ];
-
